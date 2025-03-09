@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: d6335d68a0084664db75da2c6147444a
+timeCreated: 1488209150
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 91729
+  packageName: 2.5D Shmup Template
+  packageVersion: 1.1.20
+  assetPath: Assets/shmup/script/misc/PermamentElementOnMap.cs
+  uploadId: 384159

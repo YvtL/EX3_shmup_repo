@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 7cfae88fa59a4374daa16f448a8bfd5c
+timeCreated: 1477060449
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 91729
+  packageName: 2.5D Shmup Template
+  packageVersion: 1.1.20
+  assetPath: Assets/shmup/script/enemies/EnemyAvatar.cs
+  uploadId: 384159

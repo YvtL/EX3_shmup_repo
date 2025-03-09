@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 15098f880a2e37d4bb40801a4ed7c282
+timeCreated: 1500562822
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 91729
+  packageName: 2.5D Shmup Template
+  packageVersion: 1.1.20
+  assetPath: Assets/shmup/script/enemies/Tank.cs
+  uploadId: 384159

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9145eed49f7984547ac74cc20d95c576
+timeCreated: 1489068806
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 91729
+  packageName: 2.5D Shmup Template
+  packageVersion: 1.1.20
+  assetPath: Assets/shmup/animations/boss/secondaryAnim2.anim
+  uploadId: 384159

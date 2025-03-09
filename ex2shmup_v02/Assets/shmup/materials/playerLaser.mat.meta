@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3383059b1bcec254d99ddb11b3c87145
+timeCreated: 1479228914
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 91729
+  packageName: 2.5D Shmup Template
+  packageVersion: 1.1.20
+  assetPath: Assets/shmup/materials/playerLaser.mat
+  uploadId: 384159

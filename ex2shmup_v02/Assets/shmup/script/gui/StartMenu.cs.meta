@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 115f533f94bb9544b96f5aeffaab6f3a
+timeCreated: 1494526542
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 91729
+  packageName: 2.5D Shmup Template
+  packageVersion: 1.1.20
+  assetPath: Assets/shmup/script/gui/StartMenu.cs
+  uploadId: 384159

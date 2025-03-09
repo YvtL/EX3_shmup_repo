@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e2fe8271298c2e0429ff88d35313cfba
+timeCreated: 1478709493
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 91729
+  packageName: 2.5D Shmup Template
+  packageVersion: 1.1.20
+  assetPath: Assets/shmup/animations/spear.controller
+  uploadId: 384159

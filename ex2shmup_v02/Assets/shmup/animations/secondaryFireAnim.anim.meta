@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1cbdbb55bd3539840ad5547b42655b66
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 91729
+  packageName: 2.5D Shmup Template
+  packageVersion: 1.1.20
+  assetPath: Assets/shmup/animations/secondaryFireAnim.anim
+  uploadId: 384159

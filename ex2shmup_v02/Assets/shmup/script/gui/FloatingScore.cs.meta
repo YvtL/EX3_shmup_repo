@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 14a9f56c4ab25cc49a62a307cfdb9cb8
+timeCreated: 1465671143
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 91729
+  packageName: 2.5D Shmup Template
+  packageVersion: 1.1.20
+  assetPath: Assets/shmup/script/gui/FloatingScore.cs
+  uploadId: 384159

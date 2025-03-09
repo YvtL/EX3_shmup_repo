@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: a1ddb5c1d23e98c48bf2c528d87c56b4
+timeCreated: 1489333869
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 91729
+  packageName: 2.5D Shmup Template
+  packageVersion: 1.1.20
+  assetPath: Assets/shmup/script/enemies/boss/BossTrigger.cs
+  uploadId: 384159

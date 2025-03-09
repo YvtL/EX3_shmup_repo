@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b8a939fe57609ee4e8016597b72ca3b8
+timeCreated: 1477488884
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 91729
+  packageName: 2.5D Shmup Template
+  packageVersion: 1.1.20
+  assetPath: Assets/shmup/materials/spears.mat
+  uploadId: 384159

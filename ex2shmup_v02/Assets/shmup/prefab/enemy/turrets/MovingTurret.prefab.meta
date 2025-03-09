@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 98c0f090f90aa9648841bca9466663c4
+timeCreated: 1466091180
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 91729
+  packageName: 2.5D Shmup Template
+  packageVersion: 1.1.20
+  assetPath: Assets/shmup/prefab/enemy/turrets/MovingTurret.prefab
+  uploadId: 384159

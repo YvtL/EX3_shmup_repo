@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 49fd0fbe221b3544e8e1bd6c6637c32a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 91729
+  packageName: 2.5D Shmup Template
+  packageVersion: 1.1.20
+  assetPath: Assets/shmup/prefab/gui/CanvasMenu.prefab
+  uploadId: 384159

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 48da8ee43460b414cb5e2002a094c5d7
+timeCreated: 1492700731
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 91729
+  packageName: 2.5D Shmup Template
+  packageVersion: 1.1.20
+  assetPath: Assets/shmup/postProcessMainGamma.asset
+  uploadId: 384159

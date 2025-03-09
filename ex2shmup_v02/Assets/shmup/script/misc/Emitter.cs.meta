@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: d95f944c667fa3145aa63743cf982b24
+timeCreated: 1465049600
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 91729
+  packageName: 2.5D Shmup Template
+  packageVersion: 1.1.20
+  assetPath: Assets/shmup/script/misc/Emitter.cs
+  uploadId: 384159

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 43bf59bf8bfdc494b9edbc92365e658c
+timeCreated: 1464789199
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 91729
+  packageName: 2.5D Shmup Template
+  packageVersion: 1.1.20
+  assetPath: Assets/shmup/minimal boss example.unity
+  uploadId: 384159

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8dcb2fc20fe0a94428e59db25be70eea
+timeCreated: 1465054156
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 91729
+  packageName: 2.5D Shmup Template
+  packageVersion: 1.1.20
+  assetPath: Assets/shmup/materials/player.mat
+  uploadId: 384159

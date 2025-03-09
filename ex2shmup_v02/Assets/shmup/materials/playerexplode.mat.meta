@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e2716fa137ac6c2418ee1b71f77dad6a
+timeCreated: 1460216562
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 91729
+  packageName: 2.5D Shmup Template
+  packageVersion: 1.1.20
+  assetPath: Assets/shmup/materials/playerexplode.mat
+  uploadId: 384159

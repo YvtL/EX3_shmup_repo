@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 2f7a951218e8ee74e9e43eb510421e07
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 91729
+  packageName: 2.5D Shmup Template
+  packageVersion: 1.1.20
+  assetPath: Assets/shmup/EnemyEmitterBezier/EnemyEmitterBezier.prefab
+  uploadId: 384159

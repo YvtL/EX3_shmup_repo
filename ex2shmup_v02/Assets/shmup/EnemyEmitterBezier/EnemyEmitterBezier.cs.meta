@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 18988dee00a9c5a4689f8e4c3f1a05d7
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 91729
+  packageName: 2.5D Shmup Template
+  packageVersion: 1.1.20
+  assetPath: Assets/shmup/EnemyEmitterBezier/EnemyEmitterBezier.cs
+  uploadId: 384159

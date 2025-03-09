@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 83244fb90e6366740b3e01078766a5a7
+timeCreated: 1460216562
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 91729
+  packageName: 2.5D Shmup Template
+  packageVersion: 1.1.20
+  assetPath: Assets/shmup/materials/sparks.mat
+  uploadId: 384159

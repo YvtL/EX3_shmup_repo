@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 630ed70242996ee4488484669ea770de
+timeCreated: 1489159282
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 350
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 91729
+  packageName: 2.5D Shmup Template
+  packageVersion: 1.1.20
+  assetPath: Assets/shmup/script/enemies/boss/BossElement.cs
+  uploadId: 384159

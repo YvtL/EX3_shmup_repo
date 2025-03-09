@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 43c7a93ce8394cf408946a8d9105093e
+timeCreated: 1492696872
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 91729
+  packageName: 2.5D Shmup Template
+  packageVersion: 1.1.20
+  assetPath: Assets/shmup/prefab/enemy/obstacle/solid_obstacle.prefab
+  uploadId: 384159

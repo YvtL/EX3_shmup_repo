@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f2b3421ea4aadc64188bd369ae63ace9
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 91729
+  packageName: 2.5D Shmup Template
+  packageVersion: 1.1.20
+  assetPath: Assets/shmup/animations/SecondaryFireEmetters.controller
+  uploadId: 384159

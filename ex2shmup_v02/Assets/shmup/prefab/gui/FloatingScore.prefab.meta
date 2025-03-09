@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0f27bae468d61c44789797cbf6c55b5c
+timeCreated: 1465669281
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 91729
+  packageName: 2.5D Shmup Template
+  packageVersion: 1.1.20
+  assetPath: Assets/shmup/prefab/gui/FloatingScore.prefab
+  uploadId: 384159

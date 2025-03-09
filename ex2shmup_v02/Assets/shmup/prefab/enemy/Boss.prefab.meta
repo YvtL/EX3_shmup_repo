@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8d7f7ef5fb85bee438f68766706abd01
+timeCreated: 1488813857
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 91729
+  packageName: 2.5D Shmup Template
+  packageVersion: 1.1.20
+  assetPath: Assets/shmup/prefab/enemy/Boss.prefab
+  uploadId: 384159

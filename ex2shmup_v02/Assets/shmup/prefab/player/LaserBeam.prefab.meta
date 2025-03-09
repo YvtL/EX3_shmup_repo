@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2b64c7db78145444cb7a4849a32ae5eb
+timeCreated: 1476803175
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 91729
+  packageName: 2.5D Shmup Template
+  packageVersion: 1.1.20
+  assetPath: Assets/shmup/prefab/player/LaserBeam.prefab
+  uploadId: 384159

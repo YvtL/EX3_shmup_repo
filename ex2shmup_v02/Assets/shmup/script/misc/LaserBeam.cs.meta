@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: f04f45a5d996f464e97d7e1d5e66a5c1
+timeCreated: 1476802922
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 91729
+  packageName: 2.5D Shmup Template
+  packageVersion: 1.1.20
+  assetPath: Assets/shmup/script/misc/LaserBeam.cs
+  uploadId: 384159

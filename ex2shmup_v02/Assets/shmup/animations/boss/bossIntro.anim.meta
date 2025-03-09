@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ffdaf11cc5a9a494483f8205161f970f
+timeCreated: 1489593925
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 91729
+  packageName: 2.5D Shmup Template
+  packageVersion: 1.1.20
+  assetPath: Assets/shmup/animations/boss/bossIntro.anim
+  uploadId: 384159

@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 0d0381bdd6e573f42895ce8e525fc2c5
+timeCreated: 1487606361
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 200
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 91729
+  packageName: 2.5D Shmup Template
+  packageVersion: 1.1.20
+  assetPath: Assets/shmup/script/enemies/enemyWaypoint/EnemyEmitter.cs
+  uploadId: 384159

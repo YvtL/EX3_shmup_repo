@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 88df5320c86a3fa41b40d2403366508b
+timeCreated: 1465054156
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 91729
+  packageName: 2.5D Shmup Template
+  packageVersion: 1.1.20
+  assetPath: Assets/shmup/materials/enemy.mat
+  uploadId: 384159

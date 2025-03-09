@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 687da0566d9f8e047a66285a3e851ca3
+timeCreated: 1464797537
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 91729
+  packageName: 2.5D Shmup Template
+  packageVersion: 1.1.20
+  assetPath: Assets/shmup/materials/bk.mat
+  uploadId: 384159

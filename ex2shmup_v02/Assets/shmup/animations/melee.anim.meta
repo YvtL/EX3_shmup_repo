@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6f8e834396466dd418cee55d9c2c6cf1
+timeCreated: 1478709493
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 91729
+  packageName: 2.5D Shmup Template
+  packageVersion: 1.1.20
+  assetPath: Assets/shmup/animations/melee.anim
+  uploadId: 384159

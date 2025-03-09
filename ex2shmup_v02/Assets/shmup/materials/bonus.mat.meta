@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: dbc3fb43cb4ed4744afa3fa5488eee4f
+timeCreated: 1479306163
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 91729
+  packageName: 2.5D Shmup Template
+  packageVersion: 1.1.20
+  assetPath: Assets/shmup/materials/bonus.mat
+  uploadId: 384159

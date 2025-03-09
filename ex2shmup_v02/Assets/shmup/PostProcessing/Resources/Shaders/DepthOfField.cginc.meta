@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: ddc2c19b8a216d748a357ffe32ba4dc1
+timeCreated: 1472211508
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 91729
+  packageName: 2.5D Shmup Template
+  packageVersion: 1.1.20
+  assetPath: Assets/shmup/PostProcessing/Resources/Shaders/DepthOfField.cginc
+  uploadId: 384159

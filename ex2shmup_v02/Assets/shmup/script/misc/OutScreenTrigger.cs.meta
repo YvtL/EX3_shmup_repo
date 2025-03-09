@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 151d2637e954c7242afde2430c50263e
+timeCreated: 1466350527
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 91729
+  packageName: 2.5D Shmup Template
+  packageVersion: 1.1.20
+  assetPath: Assets/shmup/script/misc/OutScreenTrigger.cs
+  uploadId: 384159

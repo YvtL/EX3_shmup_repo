@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 2a72fc91cbae3cc4686a6143e8517993
+timeCreated: 1487335480
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 91729
+  packageName: 2.5D Shmup Template
+  packageVersion: 1.1.20
+  assetPath: Assets/shmup/PostProcessing/Resources/Shaders/Fog.shader
+  uploadId: 384159

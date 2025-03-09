@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d9352ac7a727aed4ba2a5519f5a50454
+timeCreated: 1477062273
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 91729
+  packageName: 2.5D Shmup Template
+  packageVersion: 1.1.20
+  assetPath: Assets/shmup/prefab/enemy/turrets/RotatingLaserTurret.prefab
+  uploadId: 384159

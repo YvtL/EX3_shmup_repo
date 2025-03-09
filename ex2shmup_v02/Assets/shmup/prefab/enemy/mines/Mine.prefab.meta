@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 00a50639e290ae640b19250657d8b00b
+timeCreated: 1465060696
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 91729
+  packageName: 2.5D Shmup Template
+  packageVersion: 1.1.20
+  assetPath: Assets/shmup/prefab/enemy/mines/Mine.prefab
+  uploadId: 384159

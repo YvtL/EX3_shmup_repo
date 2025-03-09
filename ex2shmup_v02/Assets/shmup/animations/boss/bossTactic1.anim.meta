@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b1b6545e71881054fab558ef3870918e
+timeCreated: 1488987001
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 91729
+  packageName: 2.5D Shmup Template
+  packageVersion: 1.1.20
+  assetPath: Assets/shmup/animations/boss/bossTactic1.anim
+  uploadId: 384159

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6dec0590539266f40b769337b5f554f9
+timeCreated: 1464789199
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 91729
+  packageName: 2.5D Shmup Template
+  packageVersion: 1.1.20
+  assetPath: Assets/shmup/Demo_Linear.unity
+  uploadId: 384159

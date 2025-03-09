@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 241ff829075af074ba862c7f505ebcd9
+timeCreated: 1495983109
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 91729
+  packageName: 2.5D Shmup Template
+  packageVersion: 1.1.20
+  assetPath: Assets/shmup/Tutorial.pdf
+  uploadId: 384159

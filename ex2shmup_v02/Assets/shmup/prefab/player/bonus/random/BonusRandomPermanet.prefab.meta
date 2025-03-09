@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 5d4841c70a50d2b42af1e570381f5798
+timeCreated: 1494863524
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 91729
+  packageName: 2.5D Shmup Template
+  packageVersion: 1.1.20
+  assetPath: Assets/shmup/prefab/player/bonus/random/BonusRandomPermanet.prefab
+  uploadId: 384159

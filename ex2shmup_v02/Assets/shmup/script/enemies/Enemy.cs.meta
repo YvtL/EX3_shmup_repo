@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: efe84024d9781b44799a97c89971d552
+timeCreated: 1465049002
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 91729
+  packageName: 2.5D Shmup Template
+  packageVersion: 1.1.20
+  assetPath: Assets/shmup/script/enemies/Enemy.cs
+  uploadId: 384159

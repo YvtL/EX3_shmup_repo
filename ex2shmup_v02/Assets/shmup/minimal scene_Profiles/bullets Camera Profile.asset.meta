@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0e9552a84461b2045ab68e831a2c8977
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 91729
+  packageName: 2.5D Shmup Template
+  packageVersion: 1.1.20
+  assetPath: Assets/shmup/minimal scene_Profiles/bullets Camera Profile.asset
+  uploadId: 384159

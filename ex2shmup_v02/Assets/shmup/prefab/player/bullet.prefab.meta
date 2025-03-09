@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5e666fb7c5492a641849cf045bbd259c
+timeCreated: 1465064394
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 91729
+  packageName: 2.5D Shmup Template
+  packageVersion: 1.1.20
+  assetPath: Assets/shmup/prefab/player/bullet.prefab
+  uploadId: 384159

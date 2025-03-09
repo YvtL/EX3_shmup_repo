@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 813fbfa925c3df74db92c31fbc048806
+timeCreated: 1494863234
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 91729
+  packageName: 2.5D Shmup Template
+  packageVersion: 1.1.20
+  assetPath: Assets/shmup/prefab/player/bonus/Avatars/BonusAvatarUpgradeFrie.prefab
+  uploadId: 384159

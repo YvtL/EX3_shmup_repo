@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: cd87fb7b4ded95644b2cfda48c56cd43
+timeCreated: 1475762803
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 91729
+  packageName: 2.5D Shmup Template
+  packageVersion: 1.1.20
+  assetPath: Assets/shmup/script/player/Bonus.cs
+  uploadId: 384159

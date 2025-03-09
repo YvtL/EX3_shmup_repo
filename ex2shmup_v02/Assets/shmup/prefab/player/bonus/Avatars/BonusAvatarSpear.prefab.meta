@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: d09783d753e2ee7408e275a368f6aaa2
+timeCreated: 1494863265
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 91729
+  packageName: 2.5D Shmup Template
+  packageVersion: 1.1.20
+  assetPath: Assets/shmup/prefab/player/bonus/Avatars/BonusAvatarSpear.prefab
+  uploadId: 384159

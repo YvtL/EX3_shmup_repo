@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: aec50165ec56aea4989c23c8f5fae5cc
+timeCreated: 1493739027
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 91729
+  packageName: 2.5D Shmup Template
+  packageVersion: 1.1.20
+  assetPath: Assets/shmup/prefab/particles/ShotFX.prefab
+  uploadId: 384159

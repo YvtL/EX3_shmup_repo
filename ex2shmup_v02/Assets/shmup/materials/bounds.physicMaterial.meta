@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: abeb55e53aa94af4b90332fa4587e183
+timeCreated: 1477498503
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 91729
+  packageName: 2.5D Shmup Template
+  packageVersion: 1.1.20
+  assetPath: Assets/shmup/materials/bounds.physicMaterial
+  uploadId: 384159

@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: f120030cc56cfff4fb0ead8316030c87
+timeCreated: 1477323049
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 91729
+  packageName: 2.5D Shmup Template
+  packageVersion: 1.1.20
+  assetPath: Assets/shmup/script/player/ReusableWeapon.cs
+  uploadId: 384159

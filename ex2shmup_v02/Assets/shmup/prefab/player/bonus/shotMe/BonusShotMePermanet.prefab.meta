@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 79d2b3f09ed1d624e8dd2205efd10757
+timeCreated: 1500384757
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 91729
+  packageName: 2.5D Shmup Template
+  packageVersion: 1.1.20
+  assetPath: Assets/shmup/prefab/player/bonus/shotMe/BonusShotMePermanet.prefab
+  uploadId: 384159

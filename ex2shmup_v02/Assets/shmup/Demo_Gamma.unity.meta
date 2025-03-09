@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6eb8c920fb7da1445bc57e34ea5c0acb
+timeCreated: 1464789199
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 91729
+  packageName: 2.5D Shmup Template
+  packageVersion: 1.1.20
+  assetPath: Assets/shmup/Demo_Gamma.unity
+  uploadId: 384159

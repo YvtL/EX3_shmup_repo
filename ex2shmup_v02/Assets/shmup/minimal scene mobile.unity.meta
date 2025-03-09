@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 34943f17ad8b3794da1e5c853162d5fa
+timeCreated: 1464789199
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 91729
+  packageName: 2.5D Shmup Template
+  packageVersion: 1.1.20
+  assetPath: Assets/shmup/minimal scene mobile.unity
+  uploadId: 384159

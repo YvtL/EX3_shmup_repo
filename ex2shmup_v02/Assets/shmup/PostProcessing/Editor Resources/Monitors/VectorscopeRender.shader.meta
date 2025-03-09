@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 1c4298cd35ef7834e892898e49d61ecd
+timeCreated: 1461756159
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 91729
+  packageName: 2.5D Shmup Template
+  packageVersion: 1.1.20
+  assetPath: Assets/shmup/PostProcessing/Editor Resources/Monitors/VectorscopeRender.shader
+  uploadId: 384159

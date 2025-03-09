@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a4d55e3b52c0296409fa07c915acea5b
+timeCreated: 1460216562
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 91729
+  packageName: 2.5D Shmup Template
+  packageVersion: 1.1.20
+  assetPath: Assets/shmup/materials/bossExplode.mat
+  uploadId: 384159

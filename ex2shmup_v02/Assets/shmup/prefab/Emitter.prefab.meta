@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fcc3ac299de37a5499816a15e411016e
+timeCreated: 1465834655
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 91729
+  packageName: 2.5D Shmup Template
+  packageVersion: 1.1.20
+  assetPath: Assets/shmup/prefab/Emitter.prefab
+  uploadId: 384159

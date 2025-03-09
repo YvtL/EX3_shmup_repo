@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: f090ac1948fed504ab05b51015006135
+timeCreated: 1494863198
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 91729
+  packageName: 2.5D Shmup Template
+  packageVersion: 1.1.20
+  assetPath: Assets/shmup/prefab/player/bonus/Avatars/BonusAvatarLive.prefab
+  uploadId: 384159

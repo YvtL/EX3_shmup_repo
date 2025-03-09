@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: a92d6fdbe2c35f94190497c18b88f9af
+timeCreated: 1464350148
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 91729
+  packageName: 2.5D Shmup Template
+  packageVersion: 1.1.20
+  assetPath: Assets/shmup/PostProcessing/Resources/Shaders/ScreenSpaceRaytrace.cginc
+  uploadId: 384159

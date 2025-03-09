@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 711499b1f9339724bbb60c3afba23756
+timeCreated: 1466087256
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 91729
+  packageName: 2.5D Shmup Template
+  packageVersion: 1.1.20
+  assetPath: Assets/shmup/script/enemies/Rotation.cs
+  uploadId: 384159

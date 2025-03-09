@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 9a9ae59cbb7c53e40851df7f32805098
+timeCreated: 1468325905
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 91729
+  packageName: 2.5D Shmup Template
+  packageVersion: 1.1.20
+  assetPath: Assets/shmup/PostProcessing/Runtime/Components/MotionBlurComponent.cs
+  uploadId: 384159

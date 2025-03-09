@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 2beeb0b88ce087344aaebbef885d9833
+timeCreated: 1495554289
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 91729
+  packageName: 2.5D Shmup Template
+  packageVersion: 1.1.20
+  assetPath: Assets/shmup/mesh/Materials/No Name.mat
+  uploadId: 384159

@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 2e46a26ba923b3941b2cb89444cb8008
+NativeFormatImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 91729
+  packageName: 2.5D Shmup Template
+  packageVersion: 1.1.20
+  assetPath: Assets/shmup/materials/obstacle.mat
+  uploadId: 384159

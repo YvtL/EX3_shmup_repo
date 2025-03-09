@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7e09a4054495cc745bb13baa97ab9919
+timeCreated: 1479397736
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 91729
+  packageName: 2.5D Shmup Template
+  packageVersion: 1.1.20
+  assetPath: Assets/shmup/prefab/enemy/chainship/EnemyShipFollowWaypoints.prefab
+  uploadId: 384159

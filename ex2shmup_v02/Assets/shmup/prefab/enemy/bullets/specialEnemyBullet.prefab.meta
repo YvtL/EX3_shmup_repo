@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 243d2fa894c89c44abd42afe9cf1610d
+timeCreated: 1466352053
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 91729
+  packageName: 2.5D Shmup Template
+  packageVersion: 1.1.20
+  assetPath: Assets/shmup/prefab/enemy/bullets/specialEnemyBullet.prefab
+  uploadId: 384159

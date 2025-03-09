@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 9f780524dd2a4074f98fb79b69f98f71
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 91729
+  packageName: 2.5D Shmup Template
+  packageVersion: 1.1.20
+  assetPath: Assets/shmup/script/misc/BulletGarbage.cs
+  uploadId: 384159
